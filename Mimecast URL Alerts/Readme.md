@@ -2,7 +2,7 @@
 
 ### Mimecast Security Alerts Script ###
 
-* This script authenticates and sends a post request to the https://usb-api.mimecast.com/api/ttp/url/get-logs.
+* This script authenticates and sends a post request to the https://usb-api.mimecast.com/api/ttp/url/get-logs endpoint.
 * Version 1.0 2023-07-28
 * Author Derek Johnson
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
